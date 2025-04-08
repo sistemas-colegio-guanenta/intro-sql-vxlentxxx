@@ -74,3 +74,8 @@
 
 ![Consulta 9](img/consulta_9.png  "Consulta 9")
 
+10. Mostrar el precio promedio de los artículos cuyo código de fabricante sea fab02
+
+`SELECT COUNT(*) AS cantidad_articulos FROM articulo WHERE precio_articulo >= 50000;`
+
+![Consulta 10](img/consulta_10.png  "Consulta 10")
